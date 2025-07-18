@@ -2,7 +2,9 @@
 
   - Desenvolvedora em formação
   - Atualmente estudo principalmente <strong>Angular</strong>, <strong>React</strong>, <strong>Typescript</strong>, <strong>Java</strong>, <strong>Kotlin</strong> e muito mais!!
+<p align="left">
 
+</p>
 ## Sobre mim
 
 - Trabalho na Picpay com apenas 17 anos! 💚
