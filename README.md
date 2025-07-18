@@ -1,8 +1,7 @@
 # 🌸 Oii, eu sou a Cintya Rios! Prazer em te conhecer!!
-
+<br>
   - Desenvolvedora em formação
   - Atualmente estudo principalmente <strong>Angular</strong>, <strong>React</strong>, <strong>Typescript</strong>, <strong>Java</strong>, <strong>Kotlin</strong> e muito mais!!
-
 <br>
 
 ## Sobre mim
