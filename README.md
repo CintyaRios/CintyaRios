@@ -1,10 +1,8 @@
 # 🌸 Oii, eu sou a Cintya Rios! Prazer em te conhecer!!
-<br>
-  - Desenvolvedora em formação
-  - Atualmente estudo principalmente <strong>Angular</strong>, <strong>React</strong>, <strong>Typescript</strong>, <strong>Java</strong>, <strong>Kotlin</strong> e muito mais!!
-<br>
 
-## Sobre mim
+  - Desenvolvedora em formação
+  - Atualmente estudo principalmente <strong>Angular</strong>, <strong>React</strong>, <strong>Typescript</strong>, <strong>Java</strong>, <strong>Kotlin</strong> e muito mais!!<br><br>
+## 📝 Sobre mim
 
 - Trabalho na Picpay com apenas 17 anos! 💚
 - Faço ensino médio técnico em Desenvolvimento de Sistemas na GerminareTech 🖥️
@@ -23,7 +21,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CintyaRios/CintyaRios/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CintyaRios/CintyaRios/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CintyaRios/CintyaRios/output/pacman-contribution-graph.svg">
-</picture>
+</picture><br><br>
 
 ###
 ---
@@ -33,9 +31,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,docker,java)](https://skillicons.dev)
 
 ## Ferramentas de desenvolvimento 🔧
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)<br><br>
+<br>
 
 <p align="left">
 
@@ -46,8 +43,8 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/cintya-rios-075131317/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cintya-rios-075131317/" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
+  <a href="https://www.instagram.com/_ciintyarios/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_ciintyarios/" alt="Instagram"/></a>
 </p>
